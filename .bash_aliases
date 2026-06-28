@@ -34,9 +34,10 @@ alias despir='bash "$DIR_DOTFILES/despir.sh"'
 alias extrair='bash "$DIR_DOTFILES/extrair.sh"'
 alias formatar='bash "$DIR_DOTFILES/formatar.sh"'
 alias fps='bash "$DIR_DOTFILES/fps.sh"'
+alias mapear='bash "$DIR_DOTFILES/mapear.sh"'
+alias mover='bash "$DIR_DOTFILES/mover.sh"'
 alias normalizar='bash "$DIR_DOTFILES/normalizar.sh"'
 alias vestir='bash "$DIR_DOTFILES/vestir.sh"'
-alias mover='bash "$DIR_DOTFILES/mover.sh"'
 
 # Outros
 alias cat='lolcat'
